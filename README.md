@@ -6,4 +6,4 @@ This repository is built step by step in the tutorial.
 Thank you for reading.
 Thank you again !!!
 
-Now you are in html skeleton branch
+Now you are in update-readme branch
